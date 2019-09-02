@@ -1,0 +1,27 @@
+{
+  "name": "mpa-using-nextjs",
+  "version": "1.0.0",
+  "description": "Demo application made in nextjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajanmagar/mpa-using-nextjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajanmagar/mpa-using-nextjs/issues"
+  },
+  "homepage": "https://github.com/rajanmagar/mpa-using-nextjs#readme",
+  "dependencies": {
+    "next": "^9.0.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
